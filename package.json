@@ -1,0 +1,8 @@
+{
+  "name": "schlep",
+  "version": "1.0.0",
+  "description": "PostCSS Plugin for pulling in classes from another css file",
+  "main": "index.js",
+  "author": "Lucas K Allmon <lucaskallmon@gmail.com>",
+  "license": "MIT"
+}
